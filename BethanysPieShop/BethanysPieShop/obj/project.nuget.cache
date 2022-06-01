@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "71SzocjxuJztqNXnNTkcaZMcmjre2Hq+4pgQc45xrhn2aWXC9FutMoRAMZUMJPIALpaCefhMHW0ypvlF0uOWsQ==",
+  "success": true,
+  "projectFilePath": "D:\\asp.net-mvc\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muind\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
