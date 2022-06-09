@@ -17,3 +17,14 @@ D:\asp.net-mvc\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysP
 D:\asp.net-mvc\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.dll
 D:\asp.net-mvc\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.pdb
 D:\asp.net-mvc\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.genruntimeconfig.cache
+D:\asp.net-mvc\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.Views.dll
+D:\asp.net-mvc\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.Views.pdb
+D:\asp.net-mvc\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorAssemblyInfo.cache
+D:\asp.net-mvc\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorAssemblyInfo.cs
+D:\asp.net-mvc\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.TagHelpers.input.cache
+D:\asp.net-mvc\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.TagHelpers.output.cache
+D:\asp.net-mvc\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorCoreGenerate.cache
+D:\asp.net-mvc\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\List.cshtml.g.cs
+D:\asp.net-mvc\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorTargetAssemblyInfo.cs
+D:\asp.net-mvc\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.Views.pdb
+D:\asp.net-mvc\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csproj.CopyComplete

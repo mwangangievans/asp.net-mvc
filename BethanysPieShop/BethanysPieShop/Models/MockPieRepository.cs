@@ -7,6 +7,7 @@ namespace BethanysPieShop.Models
 {
     public class MockPieRepository : IPieRepository
     {
+        private readonly ICategoryRepository _categoryRepository = new MockCategoryRepository();
         public IEnumerable<Pie> AllPies => new List<Pie>
         {
              new Pie {PieId=1,Name="Strawberry Pie",Price=15.95M,ShortDescription="hello"},
