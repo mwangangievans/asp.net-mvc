@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "71SzocjxuJztqNXnNTkcaZMcmjre2Hq+4pgQc45xrhn2aWXC9FutMoRAMZUMJPIALpaCefhMHW0ypvlF0uOWsQ==",
+  "dgSpecHash": "4eFyzOrW8l/XwoD4BlxMmz1srp51Dny49qW/uznd/IyLSKqYkbZ+ny0UFkXZ7xTgS01H1mr5eWn7R2YKad989Q==",
   "success": true,
-  "projectFilePath": "D:\\asp.net-mvc\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+  "projectFilePath": "D:\\EVANS_PROJECTS\\C#\\asp.net-mvc\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\muind\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+    "C:\\Users\\larry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\larry\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\larry\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\larry\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
   ],
   "logs": []
 }
